@@ -8,6 +8,7 @@ const skillCategories = [
       'Penetration Testing',
       'Threat Hunting',
       'Incident Response',
+      'Governance, Risk, Compliance (GRC)',
       'Log / Traffic Analysis',
       'Splunk (SIEM) & Elastic (SIEM)',
       'Wireshark',
