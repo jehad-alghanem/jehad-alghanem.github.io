@@ -5,8 +5,8 @@ const roles = [
   'SOC Analyst',
   // 'Threat Hunter',
   'Incident Responder',
-  // 'Digital Forensics Analyst',
   'Data Analyst',
+  'Penetration Tester',
 ];
 
 export default function Hero() {
