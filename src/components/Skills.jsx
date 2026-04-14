@@ -11,6 +11,8 @@ const skillCategories = [
       'Log / Traffic Analysis',
       'Splunk (SIEM) & Elastic (SIEM)',
       'Wireshark',
+      'Security Frameworks (NIST CSF, ISO 27001, NIST 800-53)',
+
     ],
   },
   {
@@ -18,9 +20,9 @@ const skillCategories = [
     skills: [
       'Excel',
       'Power BI',
-      'Machine Learning',
-      'Artificial Intelligence',
       'Python',
+      'Artificial Intelligence',
+      'Machine Learning',
       'Pandas',
       'NumPy',
     ],
