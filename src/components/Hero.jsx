@@ -3,9 +3,9 @@ import { useTypewriter } from '../hooks/useTypewriter';
 
 const roles = [
   'SOC Analyst',
-  'Threat Hunter',
+  // 'Threat Hunter',
   'Incident Responder',
-  'Digital Forensics Analyst',
+  // 'Digital Forensics Analyst',
   'Data Analyst',
 ];
 
@@ -31,7 +31,7 @@ export default function Hero() {
       </p>
 
       <a
-        href="/JehadAlghanemCV-Job.pdf"
+        href="/JehadAlghanemCV.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="hero-cta"

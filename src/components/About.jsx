@@ -20,7 +20,7 @@ export default function About() {
             <div className="json-line">&nbsp;&nbsp;<span className="json-key">"roles"</span>: <span className="json-string">"Cybersecurity Specialist, Data Analyst"</span>,</div>
             <div className="json-line">&nbsp;&nbsp;<span className="json-key">"education"</span>: <span className="json-string">"B.Sc. Computer Science — IAU"</span>,</div>
             <div className="json-line">&nbsp;&nbsp;<span className="json-key">"gpa"</span>: <span className="json-number">4.25</span>,</div>
-            <div className="json-line">&nbsp;&nbsp;<span className="json-key">"contact"</span>: <span className="json-string">"hbd.jehad@gmail.com"</span></div>
+            <div className="json-line">&nbsp;&nbsp;<span className="json-key">"contact"</span>: <span className="json-string">"jehad.n.alghanem@gmail.com"</span></div>
             <div className="json-line"><span className="json-bracket">{'}'}</span> <span className="cursor-block"></span></div>
           </div>
         </TerminalWindow>

@@ -3,23 +3,14 @@ import { useScrollReveal } from '../hooks/useScrollReveal';
 
 const skillCategories = [
   {
-    title: 'CYBER_THREAT_OPERATIONS',
+    title: 'CYBER_SECURITY',
     skills: [
+      'Penetration Testing',
       'Threat Hunting',
-      'Digital Forensics',
       'Incident Response',
       'Log / Traffic Analysis',
-      'Behavioral Analysis',
-    ],
-  },
-  {
-    title: 'CYBER_TOOLS',
-    skills: [
-      'Splunk Enterprise Security (SIEM)',
-      'Elastic Stack (SIEM)',
-      'Wazuh',
+      'Splunk (SIEM) & Elastic (SIEM)',
       'Wireshark',
-      'FTK Imager',
     ],
   },
   {
@@ -29,8 +20,9 @@ const skillCategories = [
       'Power BI',
       'Machine Learning',
       'Artificial Intelligence',
+      'Python',
       'Pandas',
-      'NumPy'
+      'NumPy',
     ],
   },
   {
@@ -42,20 +34,19 @@ const skillCategories = [
       'Node.js',
       'React.js',
       'Flutter',
-      'Python'
     ],
   },
-  // {
-  //   title: 'SOFT_SKILLS',
-  //   skills: [
-  //     'Leadership',
-  //     'Problem Solving',
-  //     'Communication',
-  //     'Team Collaboration',
-  //     'Critical Thinking',
-  //     'Adaptability',
-  //   ],
-  // },
+  {
+    title: 'SOFT_SKILLS',
+    skills: [
+      'Leadership',
+      'Problem Solving',
+      'Communication',
+      'Team Collaboration',
+      'Critical Thinking',
+      'Adaptability',
+    ],
+  },
 ];
 
 export default function Skills() {
