@@ -16,12 +16,12 @@ export default function Contact() {
         <TerminalWindow title="./contact.sh">
           <div className="contact-links">
             <a
-              href="mailto:hbd.jehad@gmail.com"
+              href="mailto:jehad.n.alghanem@gmail.com"
               className="contact-link"
               id="contact-email"
             >
               <span className="flag">--email</span>
-              <span className="value">hbd.jehad@gmail.com</span>
+              <span className="value">jehad.n.alghanem@gmail.com</span>
             </a>
 
             <a
