@@ -31,7 +31,7 @@ export default function Hero() {
       </p>
 
       <a
-        href="/JehadAlghanemCV.pdf"
+        href="/JehadAlghanemCV-Coop.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="hero-cta"
